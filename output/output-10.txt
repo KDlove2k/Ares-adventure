@@ -1,0 +1,9 @@
+UCS
+Timeout
+BFS
+Timeout
+DFS
+Timeout
+A*
+Steps: 46, Weight: 473, Node: 88901, Time (ms): 3011.40, Memory (MB): 221.25
+ruulDrdLLdlUluUrrruulDrdddllluurRurDDrdLLLLdlU
