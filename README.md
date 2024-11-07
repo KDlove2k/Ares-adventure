@@ -1,5 +1,5 @@
 Tổng quan:
-   Đây là dự án nguyên cứu các thuật toán Search trong một bài toán cụ thể là Ares’s adventure
+   Đây là dự án nghiên cứu các thuật toán Search trong một bài toán cụ thể là Ares’s adventure
 
 Yêu cầu:
    - Python 3.12.2
